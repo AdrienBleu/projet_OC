@@ -5,7 +5,8 @@
   background-color: white;
   border-radius: 20px;
   margin-bottom: 2%;
-  box-shadow: 2px 3px 3px rgb(153, 150, 150);
+-webkit-box-shadow: 5px 5px 10px -3px rgba(121,119,119,0.25); 
+box-shadow: 5px 5px 10px -3px rgba(121,119,119,0.25);
   align-items: center;
   padding: 5px 5px 10px 5px;
 }

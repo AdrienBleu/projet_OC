@@ -18,7 +18,8 @@
   max-width: 23%;
   max-height: 535px;
   border-radius: 20px;
-  box-shadow: 2px 3px 3px var(--gray);
+-webkit-box-shadow: 5px 5px 10px -3px rgba(121,119,119,0.25); 
+box-shadow: 5px 5px 10px -3px rgba(121,119,119,0.25);
 }
 
 .card-activities:hover,
