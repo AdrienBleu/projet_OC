@@ -27,7 +27,6 @@ box-shadow: 5px 5px 10px -3px rgba(121,119,119,0.25);
 .card-apartments:hover {
   color: var(--blue);
   transition: all ease-out;
-  transform: scale(1.02);
 }
 
 .card-apartments-body {
