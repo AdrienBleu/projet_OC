@@ -60,7 +60,7 @@ input {
 
   .search-form button {
     border-radius: 12px;
-    margin-left: -20px;
+    margin-left: 0px;
   }
 
   .fas.fa-search {
